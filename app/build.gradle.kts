@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.krishnajoshi.mad_practical10_21012011036"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.krishnajoshi.mad_practical10_21012011036"
