@@ -17,8 +17,8 @@ class PersonAdapter(context:Context, val Personarray: ArrayList<Person>):ArrayAd
         view.findViewById<TextView>(R.id.number_textView).text=Personarray[position].phoneNo
         view.findViewById<TextView>(R.id.email_textView).text=Personarray[position].emailId
         view.findViewById<TextView>(R.id.address_textView).text=Personarray[position].address
-        view.findViewById<FloatingActionButton>(R.id.location_btn).setOnClickListener {
-            Intent(context,MapsActivity::class.java).putExtra("object",Personarray[position]).apply {
+        view.findViewById<MaterialButton>(R.id.location_btn).setOnClickListener {
+            Intent(context,MapsActivity::class.java).putExtra("Object",Personarray[position]).apply {
                 context.startActivity(this)
             }
         }
