@@ -18,3 +18,8 @@ To Generate JSON Data, Refer: https://app.json-generator.com/
 7.Add Internet Permission in  Manifest file
 
 8.Create Class HttpRequest for communicating with Web URL
+
+<img src="https://github.com/Krishna7249/MAD_Practical10_21012011036/assets/98690735/3823fcb5-4fa6-4ae5-8990-97bf26d83d45" width=20% height=20%>
+<img src="https://github.com/Krishna7249/MAD_Practical10_21012011036/assets/98690735/f5ad4fa2-460c-4c8a-bdf7-fa7fe248a867" width=20% height=20%>
+<img src="https://github.com/Krishna7249/MAD_Practical10_21012011036/assets/98690735/e4471642-0ab8-4cf6-87a9-0144ea13ef8b" width=20% height=20%>
+<img src="https://github.com/Krishna7249/MAD_Practical10_21012011036/assets/98690735/51a6e9a0-b017-4dfc-b0fd-d80160faefa6" width=20% height=20%>
